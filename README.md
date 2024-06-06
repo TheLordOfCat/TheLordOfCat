@@ -1,6 +1,6 @@
 - 🐱‍🚀 Hi, I’m @TheLordOfCat
 - 🐱‍🐉 I’m interested in Maths, Algorithms and AI
-- 🐱‍👤 I love Math and Informatics Olympiads
+- 🐱‍👤 I love Maths and Informatics Olympiads
 
 <!---
 TheLordOfCat/TheLordOfCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
